@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce89f0e5-e865-4689-8303-bf87f83c4554" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Debugging.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/debugging/CalculadoradeMedias.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/debugging/Main.java" afterDir="false" />
+    <list default="true" id="ce89f0e5-e865-4689-8303-bf87f83c4554" name="Changes" comment="commit inicial">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/debugging/CalculadoradeMedias.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/debuggingePilha/CalculadoradeMedias.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/debugging/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/debuggingePilha/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +21,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2CHD3HHxNDXkpokpgcw8xiagCKY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -40,13 +37,18 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="debugging" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="debugging.Main" />
+      <option name="MAIN_CLASS_NAME" value="debuggingePilha.Main" />
       <module name="Debugging" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="debugging.*" />
+          <option name="PATTERN" value="debuggingePilha.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,7 +58,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.debuggingePilha.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -69,6 +71,14 @@
       <option name="presentableId" value="Default" />
       <updated>1658450415681</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit inicial">
+      <created>1658450730692</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658450730692</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,5 +91,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit inicial" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit inicial" />
   </component>
 </project>
